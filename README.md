@@ -4,67 +4,19 @@
 Discover how you can build with Azure Kubernetes Service and Azure Arc-enabled Kubernetes. Check out this repository of new Kubernetes developer content including video, docs, and more.
 
 
-The main purpose of this repository is to provide you with resources from the DevZone event:
-- Announcements from Microsoft Build
-- Tech Intensity Programs
-- Staying connected with Microsoft
-
-
-
-
-<!--
-
-    | Header 1 | Header 2 |
-    | ----| ---|
-    |Loooooooooooooong item 1 | looooooooooong item 2 | 
-
-    [Contact Us](mailto:usdev@microsoft.com)
-
-
-- [Microsoft Azure Training Days :](#microsoft-azure-training-days)
-  - ["Awesome" Field Contributions](#%22awesome%22-field-contributions)
-  - [Azure Training Day - Baseline Events](#azure-training-day---baseline-events)
-  - [| Azure Training Day - Baseline Events | Azure Training Day - Baseline Events FY20H2 |](#azure-training-day---baseline-events--azure-training-day---baseline-events-fy20h2)
-  - [Learn AI-Knowledge Mining Bootcamp](#learn-ai-knowledge-mining-bootcamp)
-  - [Microsoft GitHub Repos](#microsoft-github-repos)
-  - [Microsoft Hands-on Labs](#microsoft-hands-on-labs)
-  - [Other Assets](#other-assets)
-
----
-
--->
----
-## Microsoft Build 2022
-Microsoft Build features five main themes about innovating without compromise, developing creatively, and building the next generation of apps. Keep reading to learn more about the key announcements aligned to each of these themes, and to discover more ways to connect, learn, and share. For the full set of announcements, check out the [Microsoft Build Book of News](https://news.microsoft.com/build-2022-book-of-news/)
-
-- **RAPIDLY CODE, TEST, AND SHIP FROM SECURE CLOUD DEVELOPER ENVIRONMENTS**: we’re announcing new innovations to help you securely develop and test your next great app and do your best work with any language, any framework, any cloud. Learn more below and in [Kathleen Mitford’s blog post](https://aka.ms/Build22/Theme1Blog). 
-- **SCALE CLOUD-NATIVE APPS AND ACCELERATE APP MODERNIZATION**: Scale your application innovation and modernization with cloud-native technologies and fully managed databases—without compromise. Today’s announcements highlight our latest innovations to help you build applications for the cloud and accelerate modernization. Learn more below and in [Scott Guthrie’s blog post](https://aka.ms/Build22/Theme2Blog). 
-- **ACCELERATE INNOVATION AND ACHIEVE AGILITY WITH A TRUSTED, INTEGRATED DATA PLATFORM WITH HYBRID AND MULTICLOUD CAPABILITIES**: we’re announcing the Microsoft Intelligent Data Platform, the leading cloud data platform that empowers organizations to invest more time creating value rather than integrating and managing their data estate. Learn more in [Rohan Kumar’s blog post.](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-intelligent-data-platform/).
-
-Listen to [Satya Nadella Keynote](https://mybuild.microsoft.com/en-US/sessions/68db9504-7c75-4a73-8562-dbbd669a3e1f?source=sessions) @ Microsoft Build
----
-
-## Microsoft Book of News 
-Discover all the announcments that happened at Microsoft Build. The Book of News covers announcements from these 5 areas:
-| Section | Announcements |
-| --- | --- |
-| Azure | [AI, Cloud Native, Data, Hybrid, Infra, Migration & Modernization, Dev Tools & DevOps](https://news.microsoft.com/build-2022-book-of-news/#a-11-azure-ai)|
-| Developer Community | [Microsoft Learn](https://news.microsoft.com/build-2022-book-of-news/#a-21-microsoft-learn-)|
-| Microsoft 365 | [Microsoft Loop & Teams](https://news.microsoft.com/build-2022-book-of-news/#a-31-microsoft-loop)|
-| Power Platform | [Power Platform](https://news.microsoft.com/build-2022-book-of-news/#a-41-power-platform)|
-| Windows & Edge | [Microsoft Windows & Edge](https://news.microsoft.com/build-2022-book-of-news/#a-51-microsoft-edge)|
-
----
-
-## Discover. Learn. Skill through Tech Intensity
+## Featured Content
 Learn with Microsoft through these programs to take your technical skills to the next level!
-| Program | Details |
+| Resource | Description |
 | --- | --- | 
-| [Azure Innovation Challenge](https://aka.ms/azureinnovationchallenge) | If you like tackling tough biz problems and solving for complex technical scenarios in creative ways, then join the first Azure Innovation Challenge today|
-| [Microsoft OpenHack](aka.ms/MSUSOpenHack) | Microsoft OpenHack is a developer-focused engagement that connects development teams (Open) with experts to tackle a series of real-world challenges through hands-on experimentation (Hack) online (Virtual).|
-| [Azure Technical Events](aka.ms/azuretechevents) | Skill up on the Microsoft Azure Tech Stack through hands on events |
-| [Azure Tech Intensity](aka.ms/azuretechintensity) | Dive deeper into Microsoft Technology through self paced learning resources|
-| [Microsoft Hands On Labs](https://www.microsoft.com/handsonlabs) | Practice with the latest cloud products and services in a live environment and advance your cloud skills for free.|
+| [Seamless and secure Kubernetes experience and observability anywhere](https://aka.ms/azureinnovationchallenge) | Learn about distroless .NET containers, and new capabilities across AKS and Azure Arc-enabled Kubernetes. |
+| [Azure webinar series: Operate Kubernetes Clusters Like a Pro](aka.ms/MSUSOpenHack) | Azure Kubernetes Service (AKS) makes management of Kubernetes easy, and provides unique features to help you achieve operational efficiency. Learn how you can use AKS features to simplify Kubernetes operations|
+| [Develop and deploy applications on Kubernetes ](aka.ms/azuretechevents) | Understand how to develop, build, deploy, and automatically maintain cloud native applications designed to work with Azure Kubernetes Service — from the scratchpad to the deployment pipeline. |
+| [Optimizing Azure Kubernetes Service (AKS) with the Well-Architected Framework](aka.ms/azuretechintensity) | If you’re building an architecture that includes AKS, using the checklists and recommendations from the Azure Well-Architected Azure Kubernetes Service (AKS) guide can help you stay on the right path.|
+| [Dapr, ML, Gitops Extensions GA on AKS](https://www.microsoft.com/handsonlabs) | Announcing the General Availability of 3 new capabilities enabled on AKS — Dapr, Azure Machine Learning and GitOps. These capabilities can be enabled on AKS clusters through a feature called cluster extensions|
+| [Deploy modern containerized apps and cloud native databases at scale](https://www.microsoft.com/handsonlabs) | Build distributed, modern, and cloud-native applications at scale and cost effectively with the latest updates in Azure Container Apps and Azure Cosmos DB.|
+| [Azure Container Apps overview ](https://www.microsoft.com/handsonlabs) | Azure Container Apps enable you to run microservices and containerized applications on a serverless platform. Common uses of Azure Container Apps include deploying API endpoints, and handling event-driven processing.| 
+| [Kubernetes core concepts for Azure Kubernetes Service (AKS)](https://www.microsoft.com/handsonlabs) | Kubernetes provides reliable scheduling of fault-tolerant app workloads. Azure Kubernetes Service, a managed Kubernetes offering, further simplifies container-based application deployment and management.| 
+| [Announcing landing zone accelerator for Azure Arc-enabled Kubernetes ](https://www.microsoft.com/handsonlabs) | The Arc-enabled Kubernetes landing zone accelerator provides best practices, guidance, and automated reference implementations so that you can get started with deployments quickly and easily.|
 ---
 
 ## Stay Connected with Microsoft - Microsoft .Source Newsletter
